@@ -18,7 +18,6 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" style="max-width:100%;"></a> CSS
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="20" height="20" style="max-width:100%;"></a> NodeJS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorveector&show_icons=true&theme=radical)
 
