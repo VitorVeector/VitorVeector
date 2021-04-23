@@ -8,9 +8,7 @@
 - Estudante de Análise e Desenvolvimento de sistemas :computer:
 - Calouro em Desenvolvimento Web :nerd_face:
 
-### Estudando
-
-
+### Desenvolvedor em:
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="max-width:100%;"></a> JavaScript
 
