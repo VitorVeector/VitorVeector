@@ -10,6 +10,9 @@
 
 ### Desenvolvedor em:
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" style="max-width:100%;"></a> TypeScript
+
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" style="max-width:100%;"></a> JavaScript
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" style="max-width:100%;"></a> HTML
