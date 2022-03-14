@@ -10,7 +10,7 @@
 
 ### Desenvolvedor em:
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" style="max-width:100%;"></a> REACT
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20" style="max-width:100%;"></a> ReactJS
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/vitorveector"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" style="max-width:100%;"></a> TypeScript
 
