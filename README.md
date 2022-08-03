@@ -6,7 +6,7 @@
 
 - Natural de São Paulo :brazil:
 - Estudante de Análise e Desenvolvimento de sistemas e desenvolvimento de aplicações FullStack com ReactJS e NodeJS :computer:
-- Calouro em Desenvolvimento Web :nerd_face:
+- Desenvolvedor Web Full-Stack :nerd_face:
 
 ### Desenvolvedor em:
 
