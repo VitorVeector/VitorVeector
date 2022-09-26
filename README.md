@@ -5,8 +5,8 @@
 
 
 - Natural de São Paulo :brazil:
-- Estudante de Análise e Desenvolvimento de sistemas e desenvolvimento de aplicações FullStack com ReactJS e NodeJS :computer:
-- Desenvolvedor Web Full-Stack :nerd_face:
+- Estudante de Análise e Desenvolvimento de sistemas e desenvolvimento de aplicações FullStack com ReactJS e NextJS :computer:
+- Desenvolvedor Web Front-end :nerd_face:
 
 ### Desenvolvedor em:
 
