@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Araujo</h1>
 <h3 align="center">A passionate Front-end developer from São Paulo, Brazil</h3>
 
-- 🔭 I’m currently working on **ReactJS and React Native projects**
+- 🔭 I’m currently working on **ReactJS, React Native and NodeJS projects**
 
-- 🌱 I’m currently learning **NodeJS, React Native**
+- 🌱 I have experience with **ReactJS, JQuery, HTML and SASS**
 
 - 👨‍💻 All of my projects are available at [github.com/vitorveector](github.com/vitorveector)
 
