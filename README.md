@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45818e&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vítor+Silva;I'm+21+years+old;I+from+Brazil,+São+Paulo;I`m+studying+development+of+systems+at+Estacio;Be+welcome!+:%29)](https://git.io/typing-svg)
-
-
-<h1 align="center">Hi 👋, I'm Vitor Araujo</h1>
-<h3 align="center">A passionate Front-end developer from São Paulo, Brazil</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45818e&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vítor+Araújo;I'm+21+years+old;I+from+Brazil,+São+Paulo;I`m+studying+development+of+systems+at+Estácio;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **ReactJS, React Native and NodeJS projects**
 
@@ -29,7 +25,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorveector&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitorveector}/count.svg" /></p> 
+<br></div>
 
 
 
