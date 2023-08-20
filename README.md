@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **job_vitoraraujo@outlook.com**
 
+- 📫 My website:  **[Vítor Araújo](https://vitor-araujo.vercel.app/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-hugo-araujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-hugo-araujo" height="30" width="40" /></a>
